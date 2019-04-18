@@ -54,7 +54,6 @@ public class SettingFragment extends Activity {
 
 
 
-```
 activity_main.xml
 
 <?xml version="1.0" encoding="utf-8"?>
@@ -145,3 +144,12 @@ preferences.xml
     </PreferenceCategory>
 
 </PreferenceScreen>
+```
+# 运行截图：
+![C80E40624F86A2FA172A0AC0C55C9D88.jpg](https://i.loli.net/2019/04/18/5cb899f0c2b08.jpg)
+![35F2A2CBDC1004A433C0B6DD55F73B7E.jpg](https://i.loli.net/2019/04/18/5cb899f39c613.jpg)
+![6121D38E9FD8D74DE2B9643A1E7C09A2.jpg](https://i.loli.net/2019/04/18/5cb8998dcd160.jpg)
+![4CEB05531DDFAA5B498CA850FD26C626.jpg](https://i.loli.net/2019/04/18/5cb899a1f0bc5.jpg)
+![BA07ECD940CBEF96BBE5B6BB05AF095F.jpg](https://i.loli.net/2019/04/18/5cb899c2bf117.jpg)
+![F660921955735926C64013247E29B5A7.jpg](https://i.loli.net/2019/04/18/5cb899c8d85bf.jpg)
+![8F6627E4AC72B96E0B49B6654B04DBC4.jpg](https://i.loli.net/2019/04/18/5cb899cbcf975.jpg)
